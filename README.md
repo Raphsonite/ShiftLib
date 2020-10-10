@@ -1,2 +1,2 @@
 # ShiftLib
-Shift Register Library For ARduino
+Simpelest Shift Register Library For Arduino
