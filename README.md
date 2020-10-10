@@ -1,5 +1,5 @@
 # ShiftLib
-Lityrally the simplest shift register library for Arduino.
+Liturally the simplest shift register library for Arduino.
 
 It's so darn simple. You only need 3 pins from the Arduino to control an infinite amount of digital outputs.
 
