@@ -1,5 +1,7 @@
 # ShiftLib
 
+![DIP IC Shift Register](https://cdn3.volusion.com/btfzd.umflq/v/vspfiles/photos/229-2.jpg?v-cache=1480968045 =250x)
+
 ## What does it do?
 
 Liturally the simplest shift register library for Arduino. It works with the **74HC595** shift registers.
