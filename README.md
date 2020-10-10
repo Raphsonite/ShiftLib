@@ -1,6 +1,6 @@
 # ShiftLib
 
-![DIP IC Shift Register](https://cdn3.volusion.com/btfzd.umflq/v/vspfiles/photos/229-2.jpg?v-cache=1480968045 =250x)
+![DIP IC Shift Register](https://cdn3.volusion.com/btfzd.umflq/v/vspfiles/photos/229-2.jpg?v-cache=1480968045)
 
 ## What does it do?
 
