@@ -8,7 +8,6 @@ It's so *darn* simple. You only need 3 pins from the Arduino to control an infin
 
 Here is a code snippet that you can use for your own sketches. In this case I controlled a set of 24 LED's, called "ledArray".
 
-***
 ## Example:
 
 ```
@@ -32,6 +31,5 @@ void loop() {
 }
 ```
 
-***
 
 Well. That is pretty *darn* simple. Have fun, bye.
