@@ -1,5 +1,7 @@
 # ShiftLib
 
+## What does it do?
+
 Liturally the simplest shift register library for Arduino. It works with the **74HC595** shift registers.
 
 It's so *darn* simple. You only need 3 pins from the Arduino to control an infinite amount of digital outputs.
@@ -7,7 +9,7 @@ It's so *darn* simple. You only need 3 pins from the Arduino to control an infin
 Here is a code snippet that you can use for your own sketches. In this case I controlled a set of 24 LED's, called "ledArray".
 
 ***
-#Example:
+## Example:
 
 ```
 #include <ShiftLib.h>
